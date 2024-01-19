@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 final kInnerDecoration = BoxDecoration(
+
   color: Colors.white,
   border: Border.all(color: Colors.white),
   borderRadius: BorderRadius.circular(50),
